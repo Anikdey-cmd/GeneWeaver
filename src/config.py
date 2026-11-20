@@ -1,4 +1,4 @@
-@'
+
 """Central configuration for GeneWeaver."""
 
 PROJECT_NAME = "GeneWeaver"
@@ -19,4 +19,3 @@ DEFAULT_CHUNK_OVERLAP = DEFAULT_GUIDE_LENGTH + len(DEFAULT_PAM_PATTERN)
 
 # Output configuration
 DEFAULT_OUTPUT_DIR = "results"
-'@ | Set-Content src/config.py
