@@ -1,0 +1,5 @@
+# Optional CUDA dependencies for GeneWeaver
+# Python 3.14 / Windows
+
+numba==0.68.1
+numba-cuda==0.30.4
